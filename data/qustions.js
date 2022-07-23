@@ -1,0 +1,1 @@
+const newQuestions = data.map(question =>  new Question(question.question, question.choices, question.answer))
